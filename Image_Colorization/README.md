@@ -1,7 +1,7 @@
 # Image Colorization
 
 <h3 align="center">
-  <img src="files/Final Output.jpg" width="65%"><br/>Test the Demo on Colab
+  <img src="files/Final_Output.jpg" width="65%"><br/>Test the Demo on Colab
 </h3>
 
 
